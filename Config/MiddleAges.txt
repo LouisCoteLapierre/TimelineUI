@@ -1,0 +1,75 @@
+{
+	"TimelineEvents":
+	{
+		"Middle Ages":
+		{
+			"Title": "Middle Ages",
+			"Description": "Beginning: Fall of the Western Roman Empire\r\nEnd: Fall of Constantinople",
+			"Start": "400",
+			"End": "1400",
+			"Geography": "Europe",
+			"Type": "Period",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "MiddleAges",
+			"LastModified": "2021-01-24T22:57:33.841Z"
+		},
+		"Black Plague":
+		{
+			"Title": "Black Plague",
+			"Description": "50% of Europe's population dies\r\n\r\nEngland: 4million (1347) - 2million (1380)",
+			"Start": "1348",
+			"End": "1450",
+			"Geography": "Europe",
+			"Type": "Event, Disaster",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "MiddleAges",
+			"LastModified": "2022-03-09T19:08:58.592Z"
+		},
+		"Khan, Genghis":
+		{
+			"Title": "Khan, Genghis",
+			"Description": "Mongolian Empire",
+			"Start": "1162",
+			"End": "1227",
+			"Geography": "Asia",
+			"Type": "Leader, Emperor",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "MiddleAges",
+			"LastModified": "2021-10-18T18:02:33.328Z"
+		},
+		"Viking Age":
+		{
+			"Title": "Viking Age",
+			"Description": "",
+			"Start": "793",
+			"End": "1066",
+			"Geography": "Europe",
+			"Type": "Period",
+			"WikiLink": "https://en.wikipedia.org/wiki/Viking_Age",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "MiddleAges",
+			"LastModified": "2022-02-02T21:33:01.839Z"
+		},
+		"Hundred Years War":
+		{
+			"Title": "Hundred Years War",
+			"Description": "English vs. French\r\nJeanne d'Arc saves France, burned 1431\r\n\r\nRoyal Absolutism in both countries: Louis XI, Tudors",
+			"Start": "1337",
+			"End": "1453",
+			"Geography": "UK/France",
+			"Type": "War",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "MiddleAges",
+			"LastModified": "2022-03-09T19:31:33.572Z"
+		}
+	}
+}

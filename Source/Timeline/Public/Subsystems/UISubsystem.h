@@ -6,6 +6,8 @@
 
 #include "UISubsystem.generated.h"
 
+class UBaseModel;
+
 UCLASS()
 class TIMELINE_API UUISubsystem : public UGameInstanceSubsystem
 {
@@ -13,11 +15,31 @@ class TIMELINE_API UUISubsystem : public UGameInstanceSubsystem
 
 public:
 
-	virtual bool ShouldCreateSubsystem(UObject* Outer) const override { return true; }
-	virtual void Initialize(FSubsystemCollectionBase& Collection) override;
+	void RegisterModels(const TArray<TSubclassOf<UBaseModel>>& ModelClasses);
+	void UnregisterModels(const TArray<TSubclassOf<UBaseModel>>& ModelClasses);
+	
+	template<typename TModelClass>
+	TModelClass* GetModel();
 
 private:
 
-	UPROPERTY()
+	UPROPERTY(Transient)
+	TMap<FName, TObjectPtr<UBaseModel>> Models;
 };
 
+template<typename TModelClass>
+TModelClass* UUISubsystem::GetModel()
+{
+	FName ModelName = UModelsHelper::GetModelName(TModelClass::StaticClass());
+	if (ModelName == NAME_None)
+	{
+		return nullptr;
+	}
+
+	if (Models.Contains(ModelName))
+	{
+		return Cast<TModelClass>(Models[ModelName]);
+	}
+
+	return nullptr;
+}

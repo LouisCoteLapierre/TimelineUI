@@ -1,0 +1,721 @@
+{
+	"TimelineEvents":
+	{
+		"Homo Habilis":
+		{
+			"Title": "Homo Habilis",
+			"Description": "",
+			"Start": "-2300000",
+			"End": "-2000000",
+			"Geography": "Ethiopia, Kenya, Tanzania",
+			"Type": "Civilization/People",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-17T19:22:18.019Z"
+		},
+		"Homo Erectus":
+		{
+			"Title": "Homo Erectus",
+			"Description": "Migration",
+			"Start": "-2000000",
+			"End": "-100000",
+			"Geography": "International",
+			"Type": "Civilization/People",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-18T00:23:12.473Z"
+		},
+		"Homo Sapiens":
+		{
+			"Title": "Homo Sapiens",
+			"Description": "Fire and Tools\r\nNeanderthals",
+			"Start": "-100000",
+			"End": "-67000",
+			"Geography": "International",
+			"Type": "Civilization/People",
+			"WikiLink": "",
+			"Works": [
+				"Eurasia"
+			],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:57.412Z"
+		},
+		"Homo Sapiens Sapiens":
+		{
+			"Title": "Homo Sapiens Sapiens",
+			"Description": "",
+			"Start": "-67000",
+			"End": "Present",
+			"Geography": "International",
+			"Type": "Civilization/People",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-18T00:19:06.227Z"
+		},
+		"Altamira Cave art":
+		{
+			"Title": "Altamira Cave art",
+			"Description": "UNESCO World Heritage site",
+			"Start": "-12000",
+			"End": "-12000",
+			"Geography": "Spain",
+			"Type": "Painting, Fresco",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-02-02T19:08:13.286Z"
+		},
+		"Prehistory":
+		{
+			"Title": "Prehistory",
+			"Description": "Stone Age\r\nPre civilisations / cities\r\n",
+			"Start": "-200000",
+			"End": "-3000",
+			"Geography": "International",
+			"Type": "Period",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-18T00:19:00.374Z"
+		},
+		"Paleolithic":
+		{
+			"Title": "Paleolithic",
+			"Description": "Means old stone: cut stone",
+			"Start": "-200000",
+			"End": "-10000",
+			"Geography": "International",
+			"Type": "Period",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-18T00:18:51.045Z"
+		},
+		"Neolithic":
+		{
+			"Title": "Neolithic",
+			"Description": "Means new stone: Polished",
+			"Start": "-10000",
+			"End": "-3500",
+			"Geography": "International",
+			"Type": "Period",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-02-02T21:33:11.455Z"
+		},
+		"Migration out of Africa":
+		{
+			"Title": "Migration out of Africa",
+			"Description": "First major human migration\r\n\r\nHomo Sapiens Sapiens\r\n\r\nDue to climate change? Explosion of inventiveness?",
+			"Start": "-50000",
+			"End": "-45000",
+			"Geography": "Africa",
+			"Type": "Civilization/People",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-17T19:25:09.807Z"
+		},
+		"Domesticating of Sheep and Bulls":
+		{
+			"Title": "Domesticating of Sheep and Bulls",
+			"Description": "For whool and milk\r\nTo pull and plow\r\n\r\nFor meat later",
+			"Start": "-12000",
+			"End": "-8500",
+			"Geography": "Southwest Asia",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:48:13.574Z"
+		},
+		"Domesticating of dogs":
+		{
+			"Title": "Domesticating of dogs",
+			"Description": "For defense and fun",
+			"Start": "-23000",
+			"End": "-7000",
+			"Geography": "Siberia",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:45:30.130Z"
+		},
+		"First large cities":
+		{
+			"Title": "First large cities",
+			"Description": "People of Sumer (Irak)Brought sex inequality\r\n",
+			"Start": "-5500",
+			"End": "-1225",
+			"Geography": "Mesopotamia",
+			"Type": "Civilization/People",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-01-14T21:53:01.975Z"
+		},
+		"Civilization's foundations":
+		{
+			"Title": "Civilization's foundations",
+			"Description": "Anatolia, Egypt, Asia, China, India, Americas",
+			"Start": "-4000",
+			"End": "-3000",
+			"Geography": "Mesopotamia",
+			"Type": "Civilization/People",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-18T18:08:09.785Z"
+		},
+		"Neolithic Revolution: Beginning of Farming":
+		{
+			"Title": "Neolithic Revolution: Beginning of Farming",
+			"Description": "Beginning of agriculture and domesticating of animals\r\nNew need of efficiency due to growing populations\r\n\r\nLead by women",
+			"Start": "-10000",
+			"End": "-8000",
+			"Geography": "South-West Asia",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-18T18:08:19.430Z"
+		},
+		"Beginning of Agriculture":
+		{
+			"Title": "Beginning of Agriculture",
+			"Description": "",
+			"Start": "-10000",
+			"End": "-10000",
+			"Geography": "Mesopotamia",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2021-10-18T18:08:26.460Z"
+		},
+		"Cosquer Frescoes":
+		{
+			"Title": "Cosquer Frescoes",
+			"Description": "Discovered in 1985",
+			"Start": "-25000",
+			"End": "-25000",
+			"Geography": "France",
+			"Type": "Painting, Fresco",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-02-02T19:01:35.961Z"
+		},
+		"Chauvet Fresco":
+		{
+			"Title": "Chauvet Fresco",
+			"Description": "Discovered in 1994",
+			"Start": "-18000",
+			"End": "-18000",
+			"Geography": "France",
+			"Type": "Painting, Fresco",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-02-02T19:05:28.174Z"
+		},
+		"Beginning of Jew's disapora":
+		{
+			"Title": "Beginning of Jew's disapora",
+			"Description": "Migration of Jews all over the world",
+			"Start": "-587",
+			"End": "Present",
+			"Geography": "International",
+			"Type": "Civilization/People",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-02-02T21:03:32.324Z"
+		},
+		"Stone tools":
+		{
+			"Title": "Stone tools",
+			"Description": "",
+			"Start": "-3300000",
+			"End": "-2600000",
+			"Geography": "Kenya",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:36.236Z"
+		},
+		"Control of fire + cooking":
+		{
+			"Title": "Control of fire + cooking",
+			"Description": "Homo-Habilis",
+			"Start": "-2300000",
+			"End": "-2300000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:28.688Z"
+		},
+		"Advanced stone tools":
+		{
+			"Title": "Advanced stone tools",
+			"Description": "Homo erectus",
+			"Start": "-1760000",
+			"End": "-1760000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:24.148Z"
+		},
+		"Bone tools":
+		{
+			"Title": "Bone tools",
+			"Description": "",
+			"Start": "-1500000",
+			"End": "-1500000",
+			"Geography": "Africa",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:32.623Z"
+		},
+		"Boats":
+		{
+			"Title": "Boats",
+			"Description": "",
+			"Start": "-900000",
+			"End": "-40000",
+			"Geography": "",
+			"Type": "Technology, Transport",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:19.569Z"
+		},
+		"Hafting":
+		{
+			"Title": "Hafting",
+			"Description": "Addinga handle to a tool",
+			"Start": "-500000",
+			"End": "-500000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:40.199Z"
+		},
+		"Pigments":
+		{
+			"Title": "Pigments",
+			"Description": "",
+			"Start": "-400000",
+			"End": "-400000",
+			"Geography": "Zambia",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:11.194Z"
+		},
+		"Spears":
+		{
+			"Title": "Spears",
+			"Description": "",
+			"Start": "-400000",
+			"End": "-300000",
+			"Geography": "Germany",
+			"Type": "Technology, Warfare",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:37:15.420Z"
+		},
+		"Origin of language":
+		{
+			"Title": "Origin of language",
+			"Description": "",
+			"Start": "-350000",
+			"End": "-150000",
+			"Geography": "",
+			"Type": "Language",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:36:49.106Z"
+		},
+		"Trade":
+		{
+			"Title": "Trade",
+			"Description": "Long-distance transportation of ressources",
+			"Start": "-320000",
+			"End": "-320000",
+			"Geography": "",
+			"Type": "Finance",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:39:18.503Z"
+		},
+		"Glue":
+		{
+			"Title": "Glue",
+			"Description": "",
+			"Start": "-200000",
+			"End": "-200000",
+			"Geography": "Italy",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:40:02.945Z"
+		},
+		"Arrows":
+		{
+			"Title": "Arrows",
+			"Description": "",
+			"Start": "-70000",
+			"End": "-60000",
+			"Geography": "South Africa",
+			"Type": "Technology, Warfare",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:41:55.897Z"
+		},
+		"Beads":
+		{
+			"Title": "Beads",
+			"Description": "",
+			"Start": "-130000",
+			"End": "-100000",
+			"Geography": "Israel, Algeria",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:41:11.156Z"
+		},
+		"Clothing":
+		{
+			"Title": "Clothing",
+			"Description": "",
+			"Start": "-170000",
+			"End": "-83000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:41:16.559Z"
+		},
+		"Needle":
+		{
+			"Title": "Needle",
+			"Description": "",
+			"Start": "-70000",
+			"End": "-60000",
+			"Geography": "South Africa",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:42:04.520Z"
+		},
+		"Shoes":
+		{
+			"Title": "Shoes",
+			"Description": "",
+			"Start": "-45000",
+			"End": "-45000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:42:20.304Z"
+		},
+		"Mortar + Pestle":
+		{
+			"Title": "Mortar + Pestle",
+			"Description": "",
+			"Start": "-37000",
+			"End": "-37000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:42:53.858Z"
+		},
+		"Weaving":
+		{
+			"Title": "Weaving",
+			"Description": "",
+			"Start": "-36000",
+			"End": "-36000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:43:19.185Z"
+		},
+		"Star Chart":
+		{
+			"Title": "Star Chart",
+			"Description": "",
+			"Start": "-33000",
+			"End": "-10000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:44:11.184Z"
+		},
+		"Rope":
+		{
+			"Title": "Rope",
+			"Description": "",
+			"Start": "-28000",
+			"End": "-28000",
+			"Geography": "",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:44:26.443Z"
+		},
+		"Ceramics":
+		{
+			"Title": "Ceramics",
+			"Description": "",
+			"Start": "-26000",
+			"End": "-26000",
+			"Geography": "China",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:44:44.830Z"
+		},
+		"Pottery":
+		{
+			"Title": "Pottery",
+			"Description": "",
+			"Start": "-16000",
+			"End": "-16000",
+			"Geography": "China",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:45:48.977Z"
+		},
+		"Bread":
+		{
+			"Title": "Bread",
+			"Description": "",
+			"Start": "-14500",
+			"End": "-14500",
+			"Geography": "Jordan",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:46:17.199Z"
+		},
+		"Agriculture":
+		{
+			"Title": "Agriculture",
+			"Description": "",
+			"Start": "-12000",
+			"End": "-11000",
+			"Geography": "Fertile Crescent",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:47:14.028Z"
+		},
+		"Domesticating of Rice":
+		{
+			"Title": "Domesticating of Rice",
+			"Description": "",
+			"Start": "-12000",
+			"End": "-8000",
+			"Geography": "China",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:47:55.473Z"
+		},
+		"Constructed stone monuments":
+		{
+			"Title": "Constructed stone monuments",
+			"Description": "",
+			"Start": "-11000",
+			"End": "-11000",
+			"Geography": "Turkey",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:48:37.410Z"
+		},
+		"Mudbricks + Clay mortar":
+		{
+			"Title": "Mudbricks + Clay mortar",
+			"Description": "",
+			"Start": "-9000",
+			"End": "-9000",
+			"Geography": "Palestine",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:49:01.544Z"
+		},
+		"Alcoohol fermentation":
+		{
+			"Title": "Alcoohol fermentation",
+			"Description": "Mead",
+			"Start": "-7000",
+			"End": "-7000",
+			"Geography": "China",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:49:28.669Z"
+		},
+		"Dog Sled":
+		{
+			"Title": "Dog Sled",
+			"Description": "",
+			"Start": "-7000",
+			"End": "-7000",
+			"Geography": "Siberia",
+			"Type": "Technology, Transport",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:49:43.861Z"
+		},
+		"Tanned leather":
+		{
+			"Title": "Tanned leather",
+			"Description": "",
+			"Start": "-7000",
+			"End": "-7000",
+			"Geography": "Pakistan",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:50:16.911Z"
+		},
+		"Lead":
+		{
+			"Title": "Lead",
+			"Description": "",
+			"Start": "-6500",
+			"End": "-6500",
+			"Geography": "Turkey",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:50:39.615Z"
+		},
+		"Kiln":
+		{
+			"Title": "Kiln",
+			"Description": "Oven",
+			"Start": "-6000",
+			"End": "-6000",
+			"Geography": "Turkey",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:51:16.339Z"
+		},
+		"Irrigation":
+		{
+			"Title": "Irrigation",
+			"Description": "",
+			"Start": "-6000",
+			"End": "-6000",
+			"Geography": "Iran",
+			"Type": "Technology",
+			"WikiLink": "",
+			"Works": [],
+			"RelatedLinks": [],
+			"Period": "Prehistoric",
+			"LastModified": "2022-03-09T20:51:33.877Z"
+		}
+	}
+}
